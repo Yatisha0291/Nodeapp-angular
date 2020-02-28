@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+h1 {
+    background-color: lightgreen;
+    color: darkgreen;
+}
+
+.searchbox {
+    background-color: lightgreen;
+    color: darkgreen;
+    padding: 10px;
+    margin: 10px;
+    width: 90%;
+}
+
+th,
+td {
+    width: 150px;
+    height: 30px;
+    padding: 5px;
+}
+
+th {
+    background-color: lightgreen;
+    color: darkgreen;
+}
+
+td {
+    background-color: lightgreen;
+    color: darkgreen;
+}
